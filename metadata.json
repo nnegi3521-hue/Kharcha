@@ -1,0 +1,7 @@
+{
+  "name": "Ghar Kharch Manager",
+  "description": "A simple, offline-first home expense manager for Indian households. Tracks daily expenses, bills, and savings securely on your device.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
